@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  public name = 'DEVinhouse'
+  public pageName = 'DEVinhouse'
   public time = new Date();
   private intervalId: any;
   private clock: any;
