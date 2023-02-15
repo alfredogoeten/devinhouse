@@ -2,5 +2,5 @@
 
 LINKS PROIBIDOS
 
-t.ly/rw4N
-t.ly/_iON
+[Link 1](t.ly/rw4N)
+[Link 2](t.ly/_iON)
